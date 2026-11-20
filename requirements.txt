@@ -1,0 +1,4 @@
+# Tested with Python 3.13
+numpy>=2.0
+matplotlib>=3.8
+opencv-python>=4.8
