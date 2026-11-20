@@ -85,5 +85,3 @@ The four x,y pairs are the upper pink, lower pink, yellow heel and yellow toe st
 - No maximum voluntary contraction was recorded, so EMG is **not** %MVC. Part B EMG is a percentage of the unconstrained walking reference peak; Part A EMG is a percentage of the normal-speed trial's reference peak.
 - The co-contraction index is CCI = 2·Σmin(TA, GAS) / Σ(TA + GAS) × 100 % (Falconer & Winter, 1985).
 
-## Licence
-MIT; see `LICENSE`.
